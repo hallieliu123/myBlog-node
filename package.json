@@ -1,0 +1,27 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "node,express,mongdb,mongoose",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hallieliu123/myBlog-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hallieliu123/myBlog-node/issues"
+  },
+  "homepage": "https://github.com/hallieliu123/myBlog-node#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookies": "^0.8.0",
+    "express": "^4.17.1",
+    "markdown": "^0.5.0",
+    "mongoose": "^5.7.4",
+    "swig": "^1.4.2"
+  }
+}
